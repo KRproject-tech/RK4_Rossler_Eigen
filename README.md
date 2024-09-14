@@ -14,6 +14,9 @@ https://eigen.tuxfamily.org/index.php?title=Main_Page
 
 __[Step 2] Execute the exe.cmd__
 
+__[Step 3] Plot results__
+
+Time series of solutions is saved in ``./save`` directory.
 
 
 ## Code
