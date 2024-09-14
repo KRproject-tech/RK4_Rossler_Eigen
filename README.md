@@ -1,3 +1,7 @@
+
+![untitled](https://github.com/user-attachments/assets/8adeed71-bf63-4f57-b706-341c50b225d5)
+
+
 # RK4_Rossler_Eigen
 Rössler equation solved by the Runge–Kutta 4th-Order Method with Eigen Library (https://eigen.tuxfamily.org/index.php?title=Main_Page) (g++, Windows).
 
