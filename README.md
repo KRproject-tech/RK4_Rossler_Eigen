@@ -34,7 +34,7 @@ d_t x_3 &=& b + x_1 x_3 - c x_3. \\
 ## Code
 
 ./source/main.cpp
-````
+```c
 int main() {
 
 	double t_max = 1000;
@@ -62,10 +62,10 @@ int main() {
 
     return 0;
 }
-````
+```
 
 ./source/RK4.cpp
-````
+```c
 MatrixXd func( MatrixXd X, Params params){
 
 	double a, b, c;
@@ -92,6 +92,6 @@ void RungeKutta( MatrixXd &X, double dt, Params params) {
     X = X + k;
 }
 
-````
+```
 
 
