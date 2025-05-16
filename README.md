@@ -21,6 +21,8 @@ Time series of solutions is saved in ``./save`` directory.
 
 ## Dynamics
 
+Rössler equation is defined as follows; 
+
 ```math
 \begin{eqnarray}
 d_t x_1 &=& -x_2 -x_3, \\
