@@ -19,6 +19,16 @@ __[Step 3] Plot results__
 Time series of solutions is saved in ``./save`` directory.
 
 
+## Dynamics
+
+```math
+\begin{eqnarray}
+d_t x_1 &=& -x_2 -x_3, \\
+d_t x_2 &=& x_1 + a x_2, \\
+d_t x_3 &=& b + x_1 x_3 - c x_3. \\ 
+\end{eqnarray}
+```
+
 ## Code
 
 ./source/main.cpp
